@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,78): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,78): warning C4244:         with
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,78): warning C4244:         [
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,78): warning C4244:             T=float
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,78): warning C4244:         ]
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,60): warning C4244:         with
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,60): warning C4244:         [
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,60): warning C4244:             T=float
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(120,60): warning C4244:         ]
+C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\SFML_Standard\Source.cpp(189,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  SFML_Standard.vcxproj -> C:\ProjetosVisualStudio\GameTest\MineCrap\SFML_Standard\x64\Debug\MineCrap.exe
