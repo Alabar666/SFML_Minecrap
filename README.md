@@ -1,5 +1,8 @@
 # SFML_Minecrap
 Game Minecrap using SFML library
 
+</div>
+<div align="center" dir="auto">
+<img align="center" width=400 src="https://giphy.com/embed/nFSYvGDz5YrtvHDkTB" width="480" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nFSYvGDz5YrtvHDkTB"/>
+</div>
 
-<div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/nFSYvGDz5YrtvHDkTB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nFSYvGDz5YrtvHDkTB">via GIPHY</a></p>
